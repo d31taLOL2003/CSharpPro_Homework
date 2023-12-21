@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Repository for C# Pro Course.");
+            Console.WriteLine("Repository for C# Pro Course. Develop branch");
         }
     }
 }
